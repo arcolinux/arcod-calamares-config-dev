@@ -195,6 +195,7 @@
   packages:
     - awesome
     - vicious
+    - dmenu
     - arcolinux-awesome-git
     - arcolinux-oblogout
     - arcolinux-oblogout-themes-git
@@ -208,6 +209,7 @@
   packages:
     - bspwm
     - sxhkd
+    - dmenu
     - awesome-terminal-fonts
     - polybar
     - sutils-git
@@ -274,6 +276,7 @@
   packages:
     - herbstluftwm
     - sxhkd
+    - dmenu
     - xtitle-git
     - polybar
     - arcolinux-herbstluftwm-git
@@ -329,6 +332,7 @@
     - gtk2-perl
     - obconf
     - yad
+    - dmenu
     - obmenu3
     - perl-linux-desktopfiles
     - arcolinux-openbox-git
@@ -364,6 +368,7 @@
   selected: false
   packages:
     - qtile
+    - dmenu
     - python-psutil
     - awesome-terminal-fonts
     - arcolinux-qtile-git
@@ -390,6 +395,7 @@
   packages:
     - xmonad
     - xmonad-contrib
+    - dmenu    
     - haskell-dbus
     - xmonad-utils
     - polybar
