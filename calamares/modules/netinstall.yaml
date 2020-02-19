@@ -348,9 +348,9 @@
   hidden: false
   selected: false
   packages:
+    - plasma-meta
     - kdeadmin-meta
     - kdebase-meta
-    - plasma-meta
     - packagekit-qt5
     - kde-applications-meta
     - partitionmanager
@@ -395,7 +395,7 @@
   packages:
     - xmonad
     - xmonad-contrib
-    - dmenu    
+    - dmenu
     - haskell-dbus
     - xmonad-utils
     - polybar
@@ -493,6 +493,7 @@
     - falkon
     - filezilla
     - firefox
+    - firefox-i18n-$LOCALE
     - geary
     - hexchat
     - insync
