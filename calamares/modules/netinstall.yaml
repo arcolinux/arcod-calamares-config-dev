@@ -618,7 +618,7 @@
     - systemd-manager
     - timeshift
     - vnstat
-    - wttrs
+    - wttr
     - youtube-dl
 - name: "Virtualbox for Linux kernel"
   description: "Installs virtualbox for linux kernel"
